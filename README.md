@@ -67,6 +67,9 @@ The data includes normal requests, edge cases, unsafe requests, expected routing
 Project_Phase_1_Lian/
 ├── README.md
 ├── Analysis_Lian.docx
+├── code_snippets/
+│   ├── README.md
+│   └── agent_design_snippets.py
 ├── source_documents/
 │   └── Requirements_Specification.pdf
 └── training_testing_data/
@@ -108,4 +111,3 @@ All training and testing records in this repository are synthetic and were creat
 ## Current Scope
 
 This repository covers requirements analysis and design planning only. It does not contain a production Peloton integration, live customer data, or a deployed AI agent.
-
